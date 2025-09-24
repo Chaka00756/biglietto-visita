@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+PRODID:-//Apple Inc.//iPhone OS 26.0//EN
+N:;Amela;;;
+FN:Amela
+ORG:ws;
+TEL;type=CELL;type=VOICE;type=pref:+393280880748
+item1.URL;type=pref:watersystems.it
+item1.X-ABLabel:_$!<HomePage>!$_
+END:VCARD
